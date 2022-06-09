@@ -35,7 +35,7 @@ Login
 ![img](assets/login3.png)  
 
 Home
-![img](assets/home3.png)
+![img](assets/home3.png)  
 
 
 可以自行的修改下Login跟Home里面html部分的代码，看看页面有啥变化
