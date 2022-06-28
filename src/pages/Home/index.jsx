@@ -1,5 +1,6 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
+import withHello from "../../HOC/withHello";
 
 function Home() {
   const history = useHistory();
@@ -20,4 +21,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default withHello(Home);
